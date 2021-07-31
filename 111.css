@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/8d/59/3d/8d593d1d158e6323170c9096caa3a79b.png");   
+    font-family: 'Solway', serif;   
+    color: black;
+}
+.output{
+    color: crimson;
+}
+.result{
+    color: green;
+}
+.mma{
+    color: blue;
+}
+.test{
+color: #9d00ff;
+}
+.bottom_div{
+    width: 1000px;
+    font-family: 'Pacifico', cursive;    
+    font-size: 25px;
+    color: orangered; 
+    border: 2px 2px dashed orangered;  
+}
